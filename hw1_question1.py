@@ -5,16 +5,17 @@ def trifeca(word):
     returns: bool
     """
     flag=0
-    curr=0
-    while curr<len(word):
-        if word[curr]==word[curr+1]:
+    skip=0
+    for curr in range(len(word)-1):
+        if word[curr+skip]==word[curr+skip+1]:
             flag+=1
-            curr+=2
+            skip+=1
             if flag==3:
                 return True
         else:
             flag=0
-            curr+=1
+        if curr+skip+2>=len(word):
+            return False
     return False
 
 if __name__ == '__main__':
