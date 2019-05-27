@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/sagol-python-for-neuroscientists/hw5_2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GuyTeichman/hw5_2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Guy_Teichman\PycharmProjects" />
