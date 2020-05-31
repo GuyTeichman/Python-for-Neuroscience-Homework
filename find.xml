@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rnalysis\filtering.py'" />
-    <option name="defaultScopeName" value="File '...\rnalysis\filtering.py'" />
-    <option name="SEARCH_SCOPE" value="File '...\rnalysis\filtering.py'" />
+    <option name="customScope" value="File '...\rnalysis\enrichment.py'" />
+    <option name="defaultScopeName" value="File '...\rnalysis\enrichment.py'" />
+    <option name="SEARCH_SCOPE" value="File '...\rnalysis\enrichment.py'" />
   </component>
 </application>
