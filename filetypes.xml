@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="call_from_terminal" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="npz" type="PLAIN_TEXT" />
     </extensionMap>
